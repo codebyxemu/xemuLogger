@@ -1,0 +1,5 @@
+name: XemuLogger
+version: ${project.version}
+main: me.xemu.api.xemulogger.XemuLogger
+api-version: 1.16
+authors: [ Xemu ]
